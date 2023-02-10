@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Nome: " + pessoa.getNome());
         System.out.println("Idade: " + pessoa.getIdade());
 
-        pessoa.setNome("Maria");
+        pessoa.setNome("Roberto");
         pessoa.setIdade(30);
 
         System.out.println("\nNome atualizado: " + pessoa.getNome());
